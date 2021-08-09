@@ -1,4 +1,4 @@
-# The assignment can be previewed on below link
+# The assignment is deployed in below netlify link. Click to preview
 
 https://distracted-poincare-cece6e.netlify.app/
 
