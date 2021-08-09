@@ -1,3 +1,7 @@
+# The assignment can be previewed on below link
+
+https://distracted-poincare-cece6e.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
