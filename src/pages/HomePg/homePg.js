@@ -28,7 +28,8 @@ const HomePg = () => {
                     </div>
 
                     <div style={description}>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maecenas sed faucibus volutpat id eleifend quis elementum.                     </div>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maecenas sed faucibus volutpat id eleifend quis elementum.     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maecenas sed faucibus volutpat id eleifend quis elementum.
+                    </div>
                     <Button label="Get Started" />
                 </div>
 
@@ -51,9 +52,13 @@ const HomePg = () => {
 
                     <div style={description}>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maecenas sed faucibus volutpat id eleifend quis elementum.
-                        <br></br>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maecenas sed faucibus volutpat id eleifend quis elementum.
-                        <br></br>  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maecenas sed faucibus volutpat id eleifend quis elementum.
+                        <div style={{ margin: '7% 0' }}>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maecenas sed faucibus volutpat id eleifend quis elementum.
+                        </div>
+
+                        <div>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maecenas sed faucibus volutpat id eleifend quis elementum.
+                        </div>
                     </div>
                 </div>
 

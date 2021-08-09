@@ -39,7 +39,7 @@
   }
 
   .terms{
-
+    margin-left: 5px;
     color: white;
     font-size: 0.875rem;
     font-weight: 400;
@@ -49,6 +49,7 @@
   .chkBox{
     min-width: 0;
     margin-right: 2%;
+    margin :0;
   }
 
   .loginHere{

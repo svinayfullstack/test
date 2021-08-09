@@ -21,7 +21,8 @@ export default {
         fontFamily: 'nunito',
         fontWeight: 400,
         fontSize: pxtorem(16),
-        lineHeight: '30px'
+        lineHeight: '30px',
+        color: '#242424'
     },
 
 
@@ -93,7 +94,7 @@ export default {
 
 
     registrationForm: {
-        padding: '15%',
+        padding: '4% 15%',
         // Adding media querry..
         "@media (min-width: 300px)": {
             display: 'none',

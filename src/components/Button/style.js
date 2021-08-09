@@ -7,7 +7,8 @@ export default {
         width: pxtorem(230),
         height: '40px',
         border: '0px',
-        boxShadow: '0px 16px 32px rgb(209 182 0 / 25%)'
+        boxShadow: '0px 16px 32px rgb(209 182 0 / 25%)',
+        padding: 0
     },
 
     btnTxt: {
