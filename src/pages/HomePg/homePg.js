@@ -3,6 +3,7 @@ import style from './style'
 import { group331, logo, mail, phone, fb, twitter, instagram, linkedin } from '../../assets/images'
 import Form from '../../components/Form'
 import Button from '../../components/Button'
+import './style.css'
 
 const HomePg = () => {
 
@@ -45,7 +46,7 @@ const HomePg = () => {
                 <div style={formContainer}><Form /></div>
 
 
-                <div style={registrationForm}>
+                <div style={registrationForm} className="sectionTwotxt">
                     <div style={registrationTitle}>
                         Complete the registration form to get started
                     </div>
