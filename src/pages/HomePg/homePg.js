@@ -13,16 +13,8 @@ const HomePg = () => {
         padding: '0 7%',
         display: 'grid',
         gridTemplateColumns: 'repeat(auto-fit, minmax(11rem, 1fr))',
-        marginLeft: '10px',
+        marginTop: '7%',
 
-        // Adding media querry..
-        // '@media (min-width: 400px)': {
-        //     padding: '0',
-        //     display: 'none',
-        //     background: 'red',
-        //     backgroundColor: 'red'
-
-        // },
     };
 
 
@@ -86,7 +78,7 @@ const HomePg = () => {
                     </div>
                 </div>
 
-                <div style={{ marginTop: '15%', width: '40%' }}>
+                <div style={{ marginTop: '7%', width: '40%' }}>
                     <p style={socialMedia}>
                         Social Media
                     </p>

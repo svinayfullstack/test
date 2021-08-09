@@ -91,15 +91,6 @@ export default {
         color: '#FFEE7A'
     },
 
-    gridStyle: ({
-        // padding: '0 8%',
-        display: 'grid',
-        gridTemplateColumns: 'repeat(auto-fit, minmax(11rem, 1fr))',
-        marginLeft: '10px',
-    }),
-
-
-
 
     registrationForm: {
         padding: '15%',
